@@ -18,12 +18,31 @@ With close to **6 years of experience** across **Product Analytics** and **Data 
 - Data Storytelling, Cross-Functional Collaboration, Scalable Solution Design
 
 ---
+
+## ⚙️ Tech Stack
+
+<table align="right">
+<tr>
+<td><strong>Tools:</strong></td>
+<td>SQL, Tableau, Python (pandas, NumPy, scikit-learn), R, Metabase, Amplitude, Git (Version Control), Advanced MS Excel, Spark (DataFrames and SparkSQL), Kafka, VBA</td>
+</tr>
+<tr>
+<td><strong>Databases:</strong></td>
+<td>Snowflake, SQL Server, AWS Redshift, Databricks</td>
+</tr>
+</table>
+
+
+
+---
+
+---
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rmitra97/rmitra97/main/work.JPG" width="200" alt="Hi there!"><br>
   <em>With my teammates, on my last day at Babbel</em>
 </p>
-
-
 
 
 
@@ -49,5 +68,10 @@ Building **scalable frameworks**, ensuring **validated measurement**, and **cros
 ---
 
 ## 📞 Let's Connect!
-I'm always open to discussing how your business can benefit from **data-researched insights**, and what I can bring to the table to help drive growth and impact.  
-🔗 [Connect with me on LinkedIn - I respond almost immediately!](https://www.linkedin.com/in/rashmilamitra/)
+I'm always open to discussing how your business can benefit from **data-researched insights**, and what I can bring to the table to help drive growth and impact.  <p align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/in/rashmilamitra/" target="_blank">LinkedIn - I respond almost immediately!</a><br>
+  <a href="mailto:rashmilamitra97@gmail.com" target="_blank">Email Me!</a>
+</p>
+
+
