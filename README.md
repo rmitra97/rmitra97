@@ -1,6 +1,4 @@
-![](./me.jpg)
-
-# Hi there!
+# Hi, I'm Rashmila!
 
 I'm a **Product Data Scientist** passionate about building at the intersection of **data, product strategy, and scalable growth**.  
 With close to **6 years of experience** across **Product Analytics** and **Data Science**, my focus lies in **translating data into strategic, validated, and actionable insights** that drive business impact.
