@@ -19,8 +19,12 @@ With close to **6 years of experience** across **Product Analytics** and **Data 
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rmitra97/rmitra97/main/work.JPG" width="200" alt="Hi there!">
+  <img src="https://raw.githubusercontent.com/rmitra97/rmitra97/main/work.JPG" width="200" alt="Hi there!"><br>
+  <em>With my teammates, on my last day at Babbel</em>
 </p>
+
+
+
 
 
 ## Experience Highlights
