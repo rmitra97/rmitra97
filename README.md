@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rmitra97/rmitra97/main/rashmilamitra.jpg" width="200" alt="Hi there!">
+</p>
+
+
 # Hi, I'm Rashmila!
 
 I'm a **Product Data Scientist** passionate about building at the intersection of **data, product strategy, and scalable growth**.  
