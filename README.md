@@ -61,12 +61,6 @@ With close to **6 years of experience** across **Product Analytics** and **Data 
 
 ---
 
-## 🌸 Where I Thrive
-I thrive where **data validates ideas**, and **experimentation powers innovation**.  
-Building **scalable frameworks**, ensuring **validated measurement**, and **cross-functional collaboration** are at the core of how I drive strategic product growth.
-
----
-
 ## 📞 Let's Connect!
 I'm always open to discussing how your business can benefit from **data-researched insights**, and what I can bring to the table to help drive growth and impact.  <p align="center">
 <p align="left">
