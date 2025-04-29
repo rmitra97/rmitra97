@@ -30,8 +30,8 @@ With close to **6 years of experience** across **Product Analytics** and **Data 
 - **Ketto.org (Asia’s largest crowdfunding platform):** [Ketto.org](https://www.ketto.org/)  
   Drove product analytics for platform engagement and launched the **Social Impact Plan App** to better align donation causes with user interests.
 
-- **Novartis (India):** - [Novartis.com](https://www.novartis.com/)
-Focused on healthcare analytics, using forecasting and time-series analysis to improve Sales and Marketing effectiveness.
+- **Novartis (India):** [Novartis.com](https://www.novartis.com/)  
+  Focused on healthcare analytics, using forecasting and time-series analysis to improve Sales and Marketing effectiveness.
 
 - **Current:**  
   Working with a fundraising technology company to enhance donor engagement and fundraising outcomes through machine learning-based opportunity detection.
