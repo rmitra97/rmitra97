@@ -1,3 +1,5 @@
+![](./me.jpg)
+
 # Hi there!
 
 I'm a **Product Data Scientist** passionate about building at the intersection of **data, product strategy, and scalable growth**.  
