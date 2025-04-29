@@ -18,6 +18,10 @@ With close to **6 years of experience** across **Product Analytics** and **Data 
 - Data Storytelling, Cross-Functional Collaboration, Scalable Solution Design
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rmitra97/rmitra97/main/work.JPG" width="200" alt="Hi there!">
+</p>
+
 
 ## Experience Highlights
 - **Babbel GmbH (Berlin):** [Babbel.com](https://about.babbel.com/)  
